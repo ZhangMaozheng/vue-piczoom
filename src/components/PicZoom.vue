@@ -76,7 +76,7 @@
                 this.orginUrl=val
                 this.initTime()
             },
-            bigUrl:function(){
+            bigUrl:function(bigUrl){
                 this.bigImgUrl=bigUrl
                 this.bigOrginUrl=bigUrl
                 this.initTime()
